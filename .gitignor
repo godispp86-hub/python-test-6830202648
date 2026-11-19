@@ -1,0 +1,31 @@
+# Virtual Environment
+
+.venv/
+
+venv/
+
+# DuckDB
+
+*.duckdb
+
+*.duckdb.wal
+
+# dbt
+
+target/
+
+logs/
+
+dbt_packages/
+
+.user.yml
+
+# Python
+
+__pycache__/
+
+*.pyc
+
+# Operating System
+
+.DS_Store
